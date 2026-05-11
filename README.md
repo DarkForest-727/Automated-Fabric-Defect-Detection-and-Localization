@@ -1,7 +1,7 @@
 # 🧵 Automated Fabric Defect Detection & Localization
 ### *Precision Fabric Inspection, Powered by AI*
 
-> **Final Year Project** — BE Computer Science, KLE College of Engineering & Technology, Chikodi  
+> **Final Year Internship Project** — BE Computer Science, KLE College of Engineering & Technology, Chikodi  
 > **Author:** Naeem Ur Rehman Naikwadi ([@DarkForest-727](https://github.com/DarkForest-727))
 
 ---
@@ -99,7 +99,7 @@ fabric-defect-system/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/DarkForest-727/fabric-defect-system.git
+git clone https://github.com/DarkForest-727/Automated-Fabric-Defect-Detection-and-Localization.git
 cd fabric-defect-system
 ```
 
@@ -139,7 +139,7 @@ python evaluate.py
 
 ## 📦 Dataset
 
-- **Source:** [Roboflow — Fabric Defect Dataset](#) *(link to be added)*
+- **Source:** [Roboflow — Fabric Defect Dataset](#) *(https://universe.roboflow.com/fabric-cugp4/fabric-jptqu/dataset/3)*
 - **Total Images:** 2,473
 - **Split:** 70% train / 20% val / 10% test
 - **Format:** YOLO segmentation polygon format
@@ -194,8 +194,8 @@ flipud: 0.3
 
 ## 📄 License
 
-This project is for academic purposes as part of a Final Year Project at KLE College of Engineering & Technology, Chikodi.
+This project is for academic purposes as part of a Internship Project at Suprmentr Technologies Pvt Ltd. 
+College: KLE College of Engineering & Technology, Chikodi.
 
 ---
 
-*Built with ❤️ for the textile industry.*
