@@ -152,7 +152,7 @@ python evaluate.py
 - **Architecture:** YOLOv8m-seg (Ultralytics)
 - **Pretrained on:** COCO
 - **Task:** Instance Segmentation
-- **Download weights (best.pt):** See [Releases](https://github.com/DarkForest-727/fabric-defect-system/releases)
+- **Download weights (best.pt):** [Download from Google Drive](https://drive.google.com/file/d/1wPtMBZK3zqtP8kZwzRnnKCmxB30gp9Xa/view?usp=sharing)
 
 ### Training Config
 ```yaml
