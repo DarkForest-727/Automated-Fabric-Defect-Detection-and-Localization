@@ -1,0 +1,15 @@
+names:
+- Hole
+- Knot
+- Line
+- Stain
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: fabric-jptqu
+  url: https://universe.roboflow.com/fabric-cugp4/fabric-jptqu/dataset/3
+  version: 3
+  workspace: fabric-cugp4
+test: E:\Fabric defect system\roboflow_dataset\test\images
+train: E:\Fabric defect system\roboflow_dataset\train\images
+val: E:\Fabric defect system\roboflow_dataset\valid\images
