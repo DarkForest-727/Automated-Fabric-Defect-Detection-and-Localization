@@ -99,7 +99,7 @@ fabric-defect-system/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/DarkForest-727/fabric-defect-system.git
+git clone https://github.com/DarkForest-727/Automated-Fabric-Defect-Detection-and-Localization.git
 cd fabric-defect-system
 ```
 
