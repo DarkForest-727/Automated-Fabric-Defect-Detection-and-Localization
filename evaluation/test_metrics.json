@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-04-21 08:11:02",
+  "weights": "E:\\Fabric defect system\\runs\\fabric_yolov8m_v1\\weights\\best.pt",
+  "test_images": 223,
+  "box_mAP50": 0.9141,
+  "box_mAP50_95": 0.698,
+  "seg_mAP50": 0.9164,
+  "seg_mAP50_95": 0.5754,
+  "per_class_AP50": {
+    "Hole": 0.9502,
+    "Knot": 0.8712,
+    "Line": 0.9187,
+    "Stain": 0.9256
+  },
+  "per_class_P": {
+    "Hole": 0.9562,
+    "Knot": 0.9075,
+    "Line": 1.0,
+    "Stain": 0.8801
+  },
+  "per_class_R": {
+    "Hole": 0.9104,
+    "Knot": 0.8409,
+    "Line": 0.831,
+    "Stain": 0.8769
+  }
+}
